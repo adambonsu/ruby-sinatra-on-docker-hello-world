@@ -10,3 +10,15 @@ docker build . -t ruby-sinatra-on-docker-hello-world
 ```
 docker run -p 80:80 -d ruby-sinatra-on-docker-hello-world
 ```
+
+## Managing containers via docker-compose
+
+### Start containers
+```
+docker-compose up -d
+```
+
+### Stop containers
+```
+docker-compose stop
+```
