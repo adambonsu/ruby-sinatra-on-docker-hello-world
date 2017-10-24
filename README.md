@@ -1,5 +1,5 @@
 # ruby-sinatra-on-docker-hello-world
-Serve a 'hello world' json message via a sinatra server wrapped in a docker container
+Serve a 'hello world' json message via a sinatra server wrapped in a docker container.
 
 ## Build the image
 ```
